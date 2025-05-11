@@ -2,6 +2,8 @@
 
 This project encompasses the design, simulation, and documentation of a Phase-Locked Loop (PLL) circuit. It includes PCB layouts created with KiCad and circuit simulations performed with LTSpice.
 
+![PLL Circuit Block Diagram](PLL.png)
+
 ## Project Structure
 
 The repository is organized as follows:
